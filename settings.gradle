@@ -1,0 +1,3 @@
+include ':BitmapEditBox'
+include ':app'
+rootProject.name = "BitmapEditTest"
